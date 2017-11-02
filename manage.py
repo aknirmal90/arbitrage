@@ -3,6 +3,9 @@ import os
 import sys
 
 if __name__ == "__main__":
+    from bin.env_variables import load_local_variables
+    load_local_variables()
+
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "arbitrage.settings")
     try:
         from django.core.management import execute_from_command_line
