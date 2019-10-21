@@ -10,7 +10,7 @@ decorator==4.1.2
 dj-database-url==0.4.2
 dj-static==0.0.6
 dj.choices==0.10.0
-Django==1.11.7
+Django==1.11.23
 django-celery==3.2.1
 first==2.0.1
 gunicorn==19.7.1
