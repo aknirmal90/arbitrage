@@ -17,7 +17,7 @@ dj-database-url==0.4.2
 dj-static==0.0.6
 dj.choices==0.10.0
 django-celery==3.2.1
-django==1.11.7
+django==1.11.28
 first==2.0.1
 gunicorn==19.7.1
 idna==2.6
