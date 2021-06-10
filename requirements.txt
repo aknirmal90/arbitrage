@@ -17,7 +17,7 @@ dj-database-url==0.4.2
 dj-static==0.0.6
 dj.choices==0.10.0
 django-celery==3.2.1
-django==1.11.7
+django==2.2.24
 first==2.0.1
 gunicorn==19.7.1
 idna==2.6
@@ -39,6 +39,7 @@ redis==2.10.6
 requests==2.18.4
 simplegeneric==0.8.1
 six==1.11.0
+sqlparse==0.4.1
 static3==0.7.0
 traitlets==4.3.2
 urllib3==1.22
